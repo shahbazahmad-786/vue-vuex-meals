@@ -1,0 +1,10 @@
+body {
+  background-color: #f3f4f6 !important;
+}
+
+.text-orange {
+  color: rgb(255, 115, 0) !important;
+}
+.bg-orange {
+  background-color: rgb(255, 115, 0) !important;
+}
